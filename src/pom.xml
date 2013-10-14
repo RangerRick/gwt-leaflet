@@ -11,7 +11,7 @@
 
 	<groupId>org.discotools.gwt.leaflet</groupId>
 	<artifactId>gwtl</artifactId>
-	<version>0.3-ONMS-20131014-1</version>
+	<version>0.3-ONMS-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>gwtl</name>
 
